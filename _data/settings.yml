@@ -15,8 +15,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope',   link: 'mailto:zefegan@gmail.com'}
-- {icon: 'instagram',  link: 'https://www.instagram.com/zefegan/'}
 - {icon: 'camera',     link: 'https://zefegan.studio'}
+- {icon: 'instagram',  link: 'https://www.instagram.com/oysterobscura/'}
+- {icon: 'book',       link: 'https://www.librarycat.org/lib/ZefEgan'}
 - {icon: 'github',     link: 'https://www.github.com/zefegan'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 

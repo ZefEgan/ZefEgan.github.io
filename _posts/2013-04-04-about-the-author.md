@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Zef Egan"
 categories: journal
-tags: [documentation,sample]
-image: cutting.jpg
+tags: [about me]
+image: Zef.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Zef, a writer and teacher at SVA. I teach Humanities & Science courses focused on placemaking and nature. I teach the foundation courses Writing & Thinking (fall) and Writing & Literture (spring and summer) along with Urban Ecology (fall) and Environmental Studies (spring). I teach a creative courses called The Path Is Made by Walking: Travel Writing every spring. Every fall I teach Art of Mapping: History and Practice of Cartography, a science elective in which students develop a cartopgraphy porfolio. You can learn more about my courses here.

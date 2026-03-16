@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "Bio"
 author: "Zef Egan"
 categories: journal
 tags: [about me]

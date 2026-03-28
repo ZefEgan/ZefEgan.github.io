@@ -15,5 +15,5 @@ Cartography, the science of drawing maps, has oriented people in the cosmos for 
 
 ### Environmental Studies
 
-### Path Is Made by Walking: Travel Writing
+### The Path Is Made By Walking: Travel Writing
 Travel endears the world to us. It helps us grasp and critique our place in society. In this course we will read classics of travel writing, from Basho to Bruce Chatwin. We will read travelogs by a diversity of writers, from naturalists like Edwin Way Teale and Nan Shepherd to brilliant essayists like Rebecca Solnit and Teju Cole to novelists who played with the genre like Cortazar and Calvino. We will also do a fair bit of traveling ourselves around the city, and workshop stories about our own voyages, past and present. We will try our hand at rising to the challenges that travel writing poses: How to describe a place - a room, a street, a city, a landscape - so vividly that the reader can look and walk around. How to develop characters from first impressions and evoke the quirks of a place by telling the stories of the people you meet along the way. How to write about vastly different perspectives honestly. And how to create a narrative arc out of the randomness of real life. This course is perfect for those who love being present in the moment, careful observers, good listeners, rememberers and storytellers.

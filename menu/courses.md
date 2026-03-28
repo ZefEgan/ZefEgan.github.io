@@ -4,7 +4,8 @@ title: Courses
 permalink: /courses
 ---
 
-## Fall
+## Fall Electives
+
 
 ### Urban Ecology
 The emerging science of urban ecology is broadly defined as the study of relationships between living organisms and their biotic and abiotic (non-living) environment within cities. In this course we will use New York City as a living laboratory to introduce key concepts, including: the geologic and physical setting of NYC; the influence of land use history on local ecosystems; landscape ecology and urban biodiversity; the types and distribution of forest, freshwater and saltwater wetlands, and meadows in NYC; urban agriculture and food systems; watersheds and watersystems; and ecological restoration. Sessions will include field trips to parks, natural areas, the American Museum of Natural History, talks and screenings. Students will be required to do independent field work and keep a natural history journal.
@@ -12,7 +13,8 @@ The emerging science of urban ecology is broadly defined as the study of relatio
 ### Art of Mapping: History and Practice of Cartography
 Cartography, the science of drawing maps, has oriented people in the cosmos for centuries. Maps are powerful tools for artists, designers and illustrators to communicate complex patterns and create immersive visuals. In this course students will learn how to use open source platforms such as QGIS, Locus Tempus, StoryMaps, Ocellus and Google Earth to create precise and evocative digital maps. The fundamentals of spatial analysis will be covered — gathering data, testing hypotheses and visualizing conclusions. Students will collect and interpret qualitative and quantitative data on location and use open source datasets like OpenData NYC and iNaturalist. We will use this data to generate interactive maps and test hypotheses about distribution and correlation. Through field work students will explore the environment of New York City while developing a portfolio of hand-drawn and digital maps.
 
-## Spring
+
+## Spring Electives
 
 ### Environmental Studies
 How do humans relate to the natural world? This question is at the core of science, art and politics. We approach this relationship from different perspectives in Environmental Studies. This survey course introduces students to environmental science, history and design with an emphasis on systems thinking. Students read Naomi Klein, Gregory Bateson, Diane Ackerman, Anna Tsing and other luminaries in the field and watch nature documentaries like When Whales Walked and Serengeti Rules. The semester is broken into four sections: climate change and natural disasters (Hurricane Maria & Puerto Rico); migration and cognition (monarch butterflies & humpback whales); keystone species (ecological restoration, oysters & mycorrhizal fungi); and sustainable design. Field work and field trips complement a sampling of all things environmental.

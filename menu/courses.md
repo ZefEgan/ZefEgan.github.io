@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Courses
 permalink: /courses
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+## Fall
 
-### Getting Started
+### Urban Ecology
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### Art of Mapping: History and Practice of Cartography
+Cartography, the science of drawing maps, has oriented people in the cosmos for centuries. Maps are powerful tools for artists, designers and illustrators to communicate complex patterns and create immersive visuals. In this course students will learn how to use open source platforms such as QGIS, Locus Tempus, StoryMaps, Ocellus and Google Earth to create precise and evocative digital maps. The fundamentals of spatial analysis will be covered-gathering data, testing hypotheses and visualizing conclusions. Students will collect and interpret qualitative and quantitative data on location and use open source datasets like OpenData NYC and iNaturalist. We will use this data to generate interactive maps and test hypotheses about distribution and correlation. Through field work students will explore the environment of New York City while developing a portfolio of hand-drawn and digital maps.
 
-### Example Content
+## Spring
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+### Environmental Studies
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+### Path Is Made by Walking: Travel Writing
+Travel endears the world to us. It helps us grasp and critique our place in society. In this course we will read classics of travel writing, from Basho to Bruce Chatwin. We will read travelogs by a diversity of writers, from naturalists like Edwin Way Teale and Nan Shepherd to brilliant essayists like Rebecca Solnit and Teju Cole to novelists who played with the genre like Cortazar and Calvino. We will also do a fair bit of traveling ourselves around the city, and workshop stories about our own voyages, past and present. We will try our hand at rising to the challenges that travel writing poses: How to describe a place - a room, a street, a city, a landscape - so vividly that the reader can look and walk around. How to develop characters from first impressions and evoke the quirks of a place by telling the stories of the people you meet along the way. How to write about vastly different perspectives honestly. And how to create a narrative arc out of the randomness of real life. This course is perfect for those who love being present in the moment, careful observers, good listeners, rememberers and storytellers.

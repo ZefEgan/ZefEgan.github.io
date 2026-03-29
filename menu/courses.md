@@ -3,7 +3,7 @@ layout: page
 title: Courses
 permalink: /courses
 ---
-<img src="assets/img/Hawk.jpg" width="700">
+<img src="assets/img/Hawkpan.jpg">
 
 ## Fall Electives
 

@@ -1,5 +1,9 @@
 # Site Build Settings
 
+url: "https://zefegan.com" # The base hostname & protocol
+baseurl: ""                   # The subpath of your site (keep empty)
+
+
 # Jekyll-paginate-v2 configuration
 #  pagination:
 #   enabled: true

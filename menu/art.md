@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art
-permalink: /art
+permalink: /art/
 ---
 
 Coming soon!

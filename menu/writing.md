@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: page
 title: Writing
 permalink: /writing
 ---
 
-### **Reporting**
+### Reporting
 
 [Cascading Disasters on the Gulf Coast Clarify the Need for a Green New Deal](https://medium.com/resilience/cascading-disasters-on-the-gulf-coast-clarify-the-need-for-a-green-new-deal-eeb90a54c677), April 5, 2021  
 [DC COVID Connect Responds to the Pandemic with Resilience](https://medium.com/resilience/dc-covid-connect-responds-to-the-pandemic-with-resilience-acaf443e9ef9), March 23, 2021  

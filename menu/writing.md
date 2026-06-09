@@ -17,4 +17,4 @@ permalink: /writing
 ### Portraits of Teachers
 
 - [Marty Sternstein](https://zefs.myportfolio.com/marty-sternstein)
-- [Marty Sternstein](https://zefs.myportfolio.com/portraits-by-daniel-kazimiersky)
+- [Daniel Kazimierski](https://zefs.myportfolio.com/portraits-by-daniel-kazimiersky)
